@@ -20,8 +20,11 @@ Group Lead: AJ Arguello\
 Vice Lead: Adrian 
 
 ## Agenda: 
-Scheduling the first bi-weekly meeting for the spring!\
-**Date & Time:** TBD
+**Date & Time:**
+Bi-Weekly on Wednesday's 5-6 PM\
+**Location:**
+- Building: Computer Design Research & Learning Center (CDRLC)
+- Room: ACM & LUG Room (CDRLC 2433)
 
 ## Writeups
 These write-ups may be useful for select challenges that we would encounter. More to come as we attend & compete in more CTFs! 
