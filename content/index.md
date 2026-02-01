@@ -23,7 +23,7 @@ Vice Lead: Adrian
 **Date & Time:**
 Bi-Weekly on Wednesday's 5-6 PM\
 **Location:**  
-- Building: Computer Design Research & Learning Center (CDRLC)
+- Building: Computer Design Research & Learning Center (CDRLC)  
 - Room: ACM & LUG Room (CDRLC 2433)
 
 **Important Information**\
