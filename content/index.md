@@ -8,11 +8,11 @@ header-includes: "<style> .title { font-size: 0px; } .navbar li { margin:auto; f
 ## Welcome to the LUG CTF Group!
 We represent UIC in the Chicago cybersecurity scene through attending conferences as well as competing in Capture the Flag competitions around the Chicago-land area. 
 
-**How to use this site:**
+### How to use this site:
 - **For Group Functions**: Head over to the Agenda section for schedules and event info.
 - **For Tools & Docs**: Check out our Writeups to see the tools and thought processes we use to crack challenges.
 
-**Interested in improving this site?**\
+### Interested in improving this site?
 Contact Adrian or AJ; any help is greatly appreciated! 
 
 ## Board Members:
