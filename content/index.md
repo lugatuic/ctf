@@ -36,4 +36,4 @@ TBD
 These write-ups may be useful for select challenges that we would encounter. More to come as we attend & compete in more CTFs! 
 
 ### Spring 2026:
-- [DaemonCon 2026](https://docs.google.com/document/d/1NVOXyPr-Kbth3HbH7cXKPcvMT-u5BXmnBtvcVa0yIjc/edit?tab=t.0)
+TBD
