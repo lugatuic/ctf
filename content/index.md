@@ -4,36 +4,59 @@ email: lug-officers@uic.edu
 author: Linux User Group @ UIC
 header-includes: "<style> .title { font-size: 0px; } .navbar li { margin:auto; float:left; padding-right: 1.5em; font-size:24px;} </style>"
 ---
+<link rel="stylesheet" href="style.css">
 
-## Welcome to the LUG CTF Group!
+<h1>
+  <img src="pngwing.com.png" class="img-penguin" style="height:45px; vertical-align:middle;">
+  Welcome to the LUG CTF Group!
+</h1>
 We represent UIC in the Chicago cybersecurity scene through attending conferences as well as competing in Capture the Flag competitions around the Chicago-land area. 
 
-### How to use this site:
+## General Info:
 - **For Group Functions**: Head over to the Agenda section for schedules and event info.
-- **For Tools & Docs**: Check out our Writeups to see the tools and thought processes we use to crack challenges.
+- **For Tools & Docs**: Check out our Tools to see the tools and thought processes we use to crack challenges.
 
 **Interested in improving this site?**\
 Contact Adrian or AJ; any help is greatly appreciated! 
 
 ## Board Members:
 Group Lead: AJ Arguello\
-Vice Lead: Adrian 
+Vice Lead: Adrian\
+CTF Lead(s): Roberto, Micheal
 
 ## Agenda: 
-**Date & Time:**
-Bi-Weekly on Wednesday's 5-6 PM\
-**Location:**  
-- Building: Computer Design Research & Learning Center (CDRLC)  
-- Room: ACM & LUG Room (CDRLC 2433)
+**NEXT MEET**
+>2/18 at 5 PM!
+
+This time we will compete in the MetaCTF Febuary Flash CTF! 
+
+**General Meet Information**
+>**Date & Time:**
+>Bi-Weekly on Wednesday's 5-6 PM\
+>**Location:**  
+> Computer Design Research & Learning Center (CDRLC)  
+>ACM & LUG Room (CDRLC 2433)
 
 **Important Information**\
-Our next Bi-Weekly Meet: This upcoming Wednesday (2/4)
-
-Software Tools Recommended for this upcoming Meet:\
-TBD
+Take a look at our last bi-weekly picoCTF classroom! It will remain open until (2/14 11:59 PM)! The code to join is: `CY1yufNoH` 
 
 ## Writeups
 These write-ups may be useful for select challenges that we would encounter. More to come as we attend & compete in more CTFs! 
 
-### Spring 2026:
-TBD
+Coming Soon!
+
+## Tools:
+This section consists of a collection of tools used in previous CTF compeitions/meetings. More tools will be added as we come across more CTF challenges.
+
+**Cryptography**
+- >[CyberChef](https://gchq.github.io/CyberChef/)
+- >[CacheSleuth](https://www.cachesleuth.com/multidecoder/)
+
+**Forensics**
+- >[MetaData2Go](https://www.cachesleuth.com/multidecoder/)
+- >[Hexed.it](https://hexed.it/)
+- >[steghide download](https://steghide.sourceforge.net/download.php)
+
+**General**
+- >[Bash](https://www.w3schools.com/bash/bash_commands.php)
+- >[Powershell](https://ss64.com/ps/)
