@@ -49,14 +49,14 @@ Coming Soon!
 This section consists of a collection of tools used in previous CTF compeitions/meetings. More tools will be added as we come across more CTF challenges.
 
 **Cryptography**\
-- >[CyberChef](https://gchq.github.io/CyberChef/)
-- >[CacheSleuth](https://www.cachesleuth.com/multidecoder/)
+>[CyberChef](https://gchq.github.io/CyberChef/)\
+>[CacheSleuth](https://www.cachesleuth.com/multidecoder/)
 
-**Forensics**
-- >[MetaData2Go](https://www.cachesleuth.com/multidecoder/)
-- >[Hexed.it](https://hexed.it/)
-- >[steghide download](https://steghide.sourceforge.net/download.php)
+**Forensics**\
+>[MetaData2Go](https://www.cachesleuth.com/multidecoder/)\
+>[Hexed.it](https://hexed.it/)\
+>[steghide download](https://steghide.sourceforge.net/download.php)\
 
-**General**
-- >[Bash](https://www.w3schools.com/bash/bash_commands.php)
-- >[Powershell](https://ss64.com/ps/)
+**General**\
+>[Bash](https://www.w3schools.com/bash/bash_commands.php)\
+>[Powershell](https://ss64.com/ps/)
