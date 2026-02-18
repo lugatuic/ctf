@@ -7,7 +7,7 @@ header-includes: "<style> .title { font-size: 0px; } .navbar li { margin:auto; f
 <link rel="stylesheet" href="style.css">
 
 <h1>
-  <img src="pngwing.com.png" class="img-penguin" style="height:45px; vertical-align:middle;">
+  <img src="static/Images/tuxPenguin.png" class="img-penguin" style="height:45px; vertical-align:middle;">
   Welcome to the LUG CTF Group!
 </h1>
 We represent UIC in the Chicago cybersecurity scene through attending conferences as well as competing in Capture the Flag competitions around the Chicago-land area. 
