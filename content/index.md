@@ -37,9 +37,6 @@ This time we will compete in the MetaCTF Febuary Flash CTF!
 > Computer Design Research & Learning Center (CDRLC)  
 >ACM & LUG Room (CDRLC 2433)
 
-**Important Information**\
-Take a look at our last bi-weekly picoCTF classroom! It will remain open until (2/14 11:59 PM)! The code to join is: `CY1yufNoH` 
-
 ## Writeups
 These write-ups may be useful for select challenges that we would encounter. More to come as we attend & compete in more CTFs! 
 
