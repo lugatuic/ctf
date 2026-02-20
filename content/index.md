@@ -25,10 +25,10 @@ Vice Lead: Adrian\
 CTF Lead(s): Roberto, Micheal
 
 ## Agenda: 
-**NEXT MEET**
->2/18 at 5 PM!
+**NEXT MEET**\
+>3/4 at 5 PM!
 
-This time we will compete in the MetaCTF Febuary Flash CTF! 
+This time we will compete together in a picoCTF classroom compiled of a variety of CTF challenges. There are two levels for this classroom (called cores). Core 1 is beginner friendly, and core 2 is intermediate level. We hope to see you there! 
 
 **General Meet Information**
 >**Date & Time:**
