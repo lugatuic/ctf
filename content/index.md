@@ -26,16 +26,16 @@ CTF Lead(s): Roberto, Micheal
 
 ## Agenda: 
 **NEXT MEET**\
->3/4 at 5 PM!
+3/4 at 5 PM!
 
 This time we will compete together in a picoCTF classroom compiled of a variety of CTF challenges. There are two levels for this classroom (called cores). Core 1 is beginner friendly, and core 2 is intermediate level. We hope to see you there! 
 
-**General Meet Information**
+**General Meet Information**\
 >**Date & Time:**
->Bi-Weekly on Wednesday's 5-6 PM\
+Bi-Weekly on Wednesday's 5-6 PM\
 >**Location:**  
-> Computer Design Research & Learning Center (CDRLC)  
->ACM & LUG Room (CDRLC 2433)
+Computer Design Research & Learning Center (CDRLC)  
+ACM & LUG Room (CDRLC 2433)
 
 ## Writeups
 These write-ups may be useful for select challenges that we would encounter. More to come as we attend & compete in more CTFs! 
