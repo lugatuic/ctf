@@ -31,7 +31,7 @@ CTF Lead(s): Roberto, Micheal
 This time we will compete together in a picoCTF classroom compiled of a variety of CTF challenges. There are two levels for this classroom (called cores). Core 1 is beginner friendly, and core 2 is intermediate level. We hope to see you there! 
 
 **General Meet Information**\
->**Date & Time:**
+>**Date & Time:**\
 Bi-Weekly on Wednesday's 5-6 PM\
 >**Location:**  
 Computer Design Research & Learning Center (CDRLC)  
